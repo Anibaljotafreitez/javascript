@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+.titulo{
+    margin-right: 300px;
+    margin-left: 50px;
+    padding: 1,5em;
+    box-shadow: 2px 2px 5px 2px yellowgreen;
+    display: flex;
+    align-items: flex-start;
+    font-size: 2rem;
+    background-color: yellow;
+    color: rgb(74, 129, 2);
+}

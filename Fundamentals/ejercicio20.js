@@ -1,0 +1,3 @@
+// It seems like something happened to these strings. Can you figure out how to clear up the chaos? Write a function that joins these strings together such that they form the following words:. 'Javascript', 'Countryside', and 'Downtown'. You might want to apply basic JS string methods such as replace(), split(), slice() etc.
+
+// Parece que algo les pasó a estas cuerdas. ¿Puedes descubrir cómo aclarar el caos? Escriba una función que una estas cadenas de modo que formen las siguientes palabras:. 'Javascript', 'Campo' y 'Centro'. Es posible que desee aplicar métodos de cadena JS básicos como reemplazar(), dividir(), cortar(), etc.
