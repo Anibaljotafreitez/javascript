@@ -7,7 +7,7 @@ const matriz=(z)=>{
 }
 console.log(matriz(24));
 console.log(matriz(2417));
-console.log(matriz(0987654321));
+console.log(matriz(987654321));
 
 // const vinochimbo=3456;
 // let numeros=vinochimbo.toString();
